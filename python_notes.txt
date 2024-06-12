@@ -1,0 +1,40 @@
+variable: is a data name and it is use to store the data value.
+
+rule 1: variable name must start with a alphabet.
+rule 2: upper case or lower case are significant. 
+rule 3: keyword is not allowed as a variable.
+rule 4: space is not allowed between variable.
+
+conditions:
+	4 types of conditions 
+1: simple if
+if condition:
+	statement
+
+2: if-else
+if condition
+	statement
+else:
+	statement
+
+3: nested if
+if condition:
+	if condition:
+		statement
+	else:
+		statement
+else:
+	statement
+
+4: ladder if
+if condition:
+	statement
+elif condition:
+	statement
+elif condition:
+	statement
+elif condition:
+	statement
+else:
+	statement
+		
